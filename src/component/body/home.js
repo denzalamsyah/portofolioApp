@@ -9,9 +9,9 @@ export default function Home() {
           <div className="text-white flex flex-col items-center gap-5 md:py-10 md:items-end">
             <h1 className="text-[18px] font-belgie">Introduction</h1>
             <p className="text-[22px] md:text-end">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
+              I am a Full Stack Developer with experience in internship
+              programs, and programming scholarships/courses. These experiences
+              have strengthened my skills in Full Stack development.
             </p>
           </div>
           <div className="py-10">

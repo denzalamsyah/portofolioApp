@@ -106,7 +106,7 @@ export default function Layout() {
           </div>
         </DisclosurePanel>
       </Disclosure>
-      <main className="py-20 min-h-screen">
+      <main className="pt-10 pb-20 md:py-20 min-h-screen">
         <Outlet />
       </main>
       <footer className="footer  bg-neutral text-neutral-content p-10">

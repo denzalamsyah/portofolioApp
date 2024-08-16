@@ -11,9 +11,9 @@ export default function Portofolio() {
         </div>
         <div className="flex gap-5 md:gap-10 flex-wrap justify-center">
           <div className="card bg-base-100 w-80 shadow-xl ">
-            {/* <figure>
-              <img src="./img/review.png" alt="culinary" />
-            </figure> */}
+            <figure>
+              <img src="./img/simak.webp" alt="culinary" />
+            </figure>
             <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
               <h2 className="card-title text-left text-yellow-500">
                 Financial Administration Information System
@@ -31,9 +31,9 @@ export default function Portofolio() {
             </div>
           </div>
           <div className="card bg-base-100 w-80 shadow-xl">
-            {/* <figure>
-              <img src="./img/review.png" alt="culinary" />
-            </figure> */}
+            <figure>
+              <img src="./img/review.webp" alt="culinary" />
+            </figure>
             <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
               <h2 className="card-title text-left text-yellow-500">
                 Culinary Review
@@ -51,9 +51,30 @@ export default function Portofolio() {
             </div>
           </div>
           <div className="card bg-base-100 w-80 shadow-xl">
-            {/* <figure>
-              <img src="./img/review.png" alt="culinary" />
-            </figure> */}
+            <figure>
+              <img src="./img/sigma.webp" alt="culinary" />
+            </figure>
+            <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
+              <h2 className="card-title text-left text-yellow-500">
+                SIGMATOP E-Commerce
+              </h2>
+              <p className="text-[18px] text-left">
+                Sigmatop E-Commerce: An innovative platform for online clothing
+                shopping with the latest collections and easy transactions.
+                Visit and find your style!
+              </p>
+              <a
+                href="https://sigma.sabar.my.id/"
+                className="badge badge-success"
+              >
+                visit
+              </a>
+            </div>
+          </div>
+          <div className="card bg-base-100 w-80 shadow-xl">
+            <figure>
+              <img src="./img/inven.webp" alt="culinary" />
+            </figure>
             <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
               <h2 className="card-title text-left text-yellow-500">
                 inventory system
@@ -71,9 +92,9 @@ export default function Portofolio() {
             </div>
           </div>
           <div className="card bg-base-100 w-80 shadow-xl">
-            {/* <figure>
-              <img src="./img/review.png" alt="culinary" />
-            </figure> */}
+            <figure>
+              <img src="./img/swag.webp" alt="culinary" />
+            </figure>
             <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
               <h2 className="card-title text-left text-yellow-500">
                 API documentation for student grades

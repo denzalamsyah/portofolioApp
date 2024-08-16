@@ -21,12 +21,12 @@ export default function Certificate() {
             </figure>
             <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
               <h2 className="card-title text-left text-yellow-500">
-                Web Development
+                Internship and Independent Study KEMENDIKBUD
                 <div className="badge badge-success">New</div>
               </h2>
               <p className="text-[18px] text-left">
-                have quite a long experience in website development, both during
-                college, internships, and training!
+                This certificate was obtained for my success in participating in
+                the Independent Campus program in Backend Engineering.
               </p>
             </div>
           </div>
@@ -40,12 +40,12 @@ export default function Certificate() {
             </figure>
             <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
               <h2 className="card-title text-left text-yellow-500">
-                Digital Marketing
+                Database Management
                 <div className="badge badge-success">New</div>
               </h2>
               <p className="text-[18px] text-left">
-                have quite a long experience in digital marketing, both during
-                college, internships, and training!
+                I obtained this certificate after I successfully completed the
+                Database Management training and assignments at Ruang Guru.
               </p>
             </div>
           </div>
@@ -59,12 +59,12 @@ export default function Certificate() {
             </figure>
             <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
               <h2 className="card-title text-left text-yellow-500">
-                Content Creators
+                Web Applications
                 <div className="badge badge-success">New</div>
               </h2>
               <p className="text-[18px] text-left">
-                have quite a long experience in content creators, both during
-                college, internships, and training!
+                I obtained this certificate after successfully completing the
+                Web Application training and assignment at Ruang Guru.
               </p>
             </div>
           </div>

@@ -12,8 +12,7 @@ export default function ListTools() {
             systems, and other tools that I excel at:
           </p>
         </div>
-
-        <div className="flex items-center gap-5 md:gap-10 flex-wrap">
+        <div className="flex justify-center items-center gap-5 md:gap-10 flex-wrap">
           <div className="card bg-base-100 w-80 shadow-xl">
             <figure>
               <img

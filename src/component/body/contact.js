@@ -51,8 +51,8 @@ export default function Contact() {
   };
   return (
     <>
-      <section id="contact" className="px-40">
-        <div className="flex justify-between items-center gap-5 md:gap-10 pt-20">
+      <section id="contact" className="px-10 md:px-40">
+        <div className="flex justify-between items-center flex-wrap md:flex-nowrap gap-5 md:gap-10 pt-20">
           <div className="text-white flex flex-col gap-2">
             <p className="font-belgie text-left text-[22px] text-warning underline">
               Contact Us
@@ -62,7 +62,11 @@ export default function Contact() {
               form.
             </p>
           </div>
-          <form ref={form} onSubmit={sendEmail} className="card gap-5 w-[60%]">
+          <form
+            ref={form}
+            onSubmit={sendEmail}
+            className="card gap-5 w-full md:w-[60%]"
+          >
             <label className="input input-bordered input-warning flex items-center gap-2">
               <svg
                 xmlns="http://www.w3.org/2000/svg"

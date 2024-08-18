@@ -13,13 +13,25 @@ export default function ListTools() {
           </p>
         </div>
 
-        <div className="flex gap-5 md:gap-10 flex-wrap">
-          <div className="card bg-base-100 w-80 shadow-xl ">
-            <figure className="p-5">
+        <div className="flex items-center gap-5 md:gap-10 flex-wrap">
+          <div className="card bg-base-100 w-80 shadow-xl">
+            <figure>
               <img
-                src="./img/website.svg"
-                alt="Shoes"
-                className="max-w-[200px] max-h-[200px]"
+                src="./img/git.webp"
+                alt="git"
+                className="max-w-[400px max-h-[400px]"
+              />
+            </figure>
+            <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
+              <h2 className="card-title text-yellow-500">Version Control</h2>
+            </div>
+          </div>
+          <div className="card bg-base-10center0 w-80 shadow-xl ">
+            <figure>
+              <img
+                src="./img/program.webp"
+                alt="language-programming"
+                className="max-w-[350px] max-h-[350px]"
               />
             </figure>
             <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
@@ -29,29 +41,17 @@ export default function ListTools() {
             </div>
           </div>
           <div className="card bg-base-100 w-80 shadow-xl">
-            <figure className="p-5">
+            <figure>
               <img
-                src="./img/digmak.svg"
-                alt="digital-marketing"
-                className="max-w-[200px] max-h-[200px]"
+                src="./img/sql.webp"
+                alt="db"
+                className="max-w-[370px] max-h-[370px]"
               />
             </figure>
             <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
               <h2 className="card-title text-yellow-500">
                 Database Management
               </h2>
-            </div>
-          </div>
-          <div className="card bg-base-100 w-80 shadow-xl">
-            <figure className="p-5">
-              <img
-                src="./img/content.svg"
-                alt="content-creator"
-                className="max-w-[200px] max-h-[200px]"
-              />
-            </figure>
-            <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
-              <h2 className="card-title text-yellow-500">Version Control</h2>
             </div>
           </div>
         </div>

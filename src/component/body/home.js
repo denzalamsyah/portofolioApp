@@ -1,4 +1,5 @@
 import Certificate from "./certificate";
+import Contact from "./contact";
 import ListTools from "./listtools";
 import Portofolio from "./portofolio";
 import Service from "./service";
@@ -21,7 +22,7 @@ export default function Home() {
           </div>
           <div className="py-10">
             <img
-              src="./img/profile.png"
+              src="./img/profile.webp"
               className="w-[300px] h-auto animate-move"
             />
           </div>
@@ -30,7 +31,7 @@ export default function Home() {
               Rizwan Alamsyah
             </h1>
             <p className="text-[22px] md:text-start font-poppins ">
-              Web Development | Digital Marketing | Content Creator
+              Web Development | Content Creator
             </p>
             <a href="#contact">
               <button className="btn btn-outline btn-warning">
@@ -48,6 +49,8 @@ export default function Home() {
       <Certificate />
       <hr />
       <ListTools />
+      <hr />
+      <Contact />
     </>
   );
 }

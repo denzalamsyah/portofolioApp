@@ -6,8 +6,8 @@ export default function Certificate() {
           <p className="text-yellow-500 font-belgie text-[22px]">Certificate</p>
           <p className="font-poppins text-[26px]">My achievement certificate</p>
           <p className="font-poppins text-[18px]">
-            Various certificates that I have obtained from various training and
-            courses.
+            The various certificates I obtained are from numerous training
+            programs and courses.
           </p>
         </div>
         <div className="flex gap-5 md:gap-10 flex-wrap justify-center items-center">
@@ -25,8 +25,8 @@ export default function Certificate() {
                 <div className="badge badge-success">New</div>
               </h2>
               <p className="text-[18px] text-left">
-                This certificate was obtained for my success in participating in
-                the Independent Campus program in Backend Engineering.
+                These certificates were awarded for successfully completing an
+                internship and independent study program in Backend Engineering.
               </p>
             </div>
           </div>
@@ -44,8 +44,8 @@ export default function Certificate() {
                 <div className="badge badge-success">New</div>
               </h2>
               <p className="text-[18px] text-left">
-                I obtained this certificate after I successfully completed the
-                Database Management training and assignments at Ruang Guru.
+                I received these certificates after successfully completing
+                training and assignments in Database Management at Ruang Guru.
               </p>
             </div>
           </div>
@@ -63,8 +63,8 @@ export default function Certificate() {
                 <div className="badge badge-success">New</div>
               </h2>
               <p className="text-[18px] text-left">
-                I obtained this certificate after successfully completing the
-                Web Application training and assignment at Ruang Guru.
+                I earned these certificates upon successfully finishing training
+                and assignments in Web Applications at Ruang Guru.
               </p>
             </div>
           </div>

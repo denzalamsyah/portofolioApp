@@ -58,8 +58,8 @@ export default function Contact() {
               Contact Us
             </p>
             <p className="font-poppins text-left text-[18px]">
-              ask more by sending me a message. please fill out the following
-              form.
+              Feel free to reach out to me with any further questions by sending
+              me a message. Please fill out the form below.
             </p>
           </div>
           <form

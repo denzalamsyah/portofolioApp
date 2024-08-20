@@ -6,7 +6,7 @@ export default function Portofolio() {
           <p className="text-yellow-500 font-belgie text-[22px]">Portofolio</p>
           <p className="font-poppins text-[26px]">Real Project And Task</p>
           <p className="font-poppins text-[18px]">
-            The things I master can be seen as follows
+            "Here are the professional projects I have worked on."
           </p>
         </div>
         <div className="flex gap-5 md:gap-10 flex-wrap justify-center">
@@ -19,8 +19,8 @@ export default function Portofolio() {
                 Financial Administration Information System
               </h2>
               <p className="text-[18px] text-left">
-                This system was created for the needs of financial management at
-                SMA Plus Nurul Iman Leles
+                This system was developed to meet the financial management needs
+                of SMA Plus Nurul Iman Leles.
               </p>
               <a
                 href="https://front-end-simak.vercel.app/login"
@@ -51,8 +51,8 @@ export default function Portofolio() {
                 Culinary Review
               </h2>
               <p className="text-[18px] text-left">
-                This website was created to fulfill one of the final projects
-                for disanbercode training!
+                Culinary Review offers concise critiques and insights on diverse
+                dining experiences, from street food to gourmet cuisine.
               </p>
               <a
                 href="https://tugas-sb-sanbercode-go-next-2024-topaz.vercel.app/"
@@ -83,9 +83,8 @@ export default function Portofolio() {
                 SIGMATOP E-Commerce
               </h2>
               <p className="text-[18px] text-left">
-                Sigmatop E-Commerce: An innovative platform for online clothing
-                shopping with the latest collections and easy transactions.
-                Visit and find your style!
+                A platform offering the latest collections and easy transactions
+                for online clothing purchases.
               </p>
               <a
                 href="https://sigma.sabar.my.id/"
@@ -116,8 +115,8 @@ export default function Portofolio() {
                 inventory system
               </h2>
               <p className="text-[18px] text-left">
-                This system was created to meet the inventory management needs
-                at WIT.ID!
+                This system was created to fulfill the inventory management
+                requirements at WIT.ID.
               </p>
               <a
                 href="https://inventory-wit.vercel.app/"
@@ -148,9 +147,9 @@ export default function Portofolio() {
                 API documentation for student grades
               </h2>
               <p className="text-[18px] text-left">
-                The API documentation for student grades includes endpoints for
-                retrieving, adding, updating, and deleting student grade data,
-                with details on authentication, parameters, responses, and usage
+                The documentation includes endpoints for retrieving, adding,
+                updating, and deleting student grade data, with detailed
+                information on authentication, parameters, responses, and usage
                 examples.
               </p>
               <a

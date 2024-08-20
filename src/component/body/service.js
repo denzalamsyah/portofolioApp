@@ -24,8 +24,8 @@ export default function Service() {
                 <div className="badge badge-success">middle</div>
               </h2>
               <p className="text-[18px] text-left">
-                Building websites from frontend to backend with modern,
-                responsive technology optimized for high performance.!
+                Building websites from frontend to backend using modern and
+                responsive technologies optimized for high performance.
               </p>
             </div>
           </div>
@@ -43,8 +43,8 @@ export default function Service() {
                 <div className="badge badge-success">middle</div>
               </h2>
               <p className="text-[18px] text-left">
-                Design and develop secure and scalable RESTful and GraphQL APIs
-                to connect multiple services and applications.!
+                Designing and developing secure and scalable RESTful and GraphQL
+                APIs to connect various services and applications.
               </p>
             </div>
           </div>
@@ -62,8 +62,8 @@ export default function Service() {
                 <div className="badge badge-success">middle</div>
               </h2>
               <p className="text-[18px] text-left">
-                Database design and optimization for maximum performance using
-                technologies such as MySQL, and PostgreSQL.!
+                Designing and optimizing databases for maximum performance using
+                technologies such as MySQL and PostgreSQL.
               </p>
             </div>
           </div>
@@ -82,7 +82,7 @@ export default function Service() {
               </h2>
               <p className="text-[18px] text-left">
                 Building interactive and responsive user interfaces using
-                libraries or frameworks like React and Nextjs.!
+                libraries or frameworks like React and Next.js.
               </p>
             </div>
           </div>
@@ -101,7 +101,7 @@ export default function Service() {
               </h2>
               <p className="text-[18px] text-left">
                 Building robust and reliable backend servers and applications
-                with Golang.!
+                with Golang.
               </p>
             </div>
           </div>
@@ -119,8 +119,8 @@ export default function Service() {
                 <div className="badge badge-success">middle</div>
               </h2>
               <p className="text-[18px] text-left">
-                Git and GitHub for effective version control and team
-                collaboration in software development.!
+                Using Git and GitHub for effective version control and team
+                collaboration in software development.
               </p>
             </div>
           </div>

@@ -6,10 +6,10 @@ export default function ListTools() {
           <p className="text-yellow-500 font-belgie text-[22px]">
             Tools & Technologies
           </p>
-          <p className="font-poppins text-[26px]">My Technical Proficiencies</p>
+          <p className="font-poppins text-[26px]">My Technical Skills</p>
           <p className="font-poppins text-[18px]">
             Here are the programming languages, databases, version control
-            systems, and other tools that I excel at:
+            systems, and other tools that I am proficient in:
           </p>
         </div>
         <div className="flex justify-center items-center gap-5 md:gap-10 flex-wrap">

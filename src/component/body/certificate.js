@@ -21,7 +21,7 @@ export default function Certificate() {
             </figure>
             <div className="card-body text-white bg-gradient-to-r from-[#17202a] to-gray-900 rounded-bl-2xl rounded-br-2xl">
               <h2 className="card-title text-left text-yellow-500">
-                Internship and Independent Study KEMENDIKBUD
+                Internship and Independent Study KEMENDIKBUDz
                 <div className="badge badge-success">New</div>
               </h2>
               <p className="text-[18px] text-left">

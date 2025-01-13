@@ -6,7 +6,7 @@ export default function Portofolio() {
           <p className="text-yellow-500 font-belgie text-[22px]">Portofolio</p>
           <p className="font-poppins text-[26px]">Real Project And Task</p>
           <p className="font-poppins text-[18px]">
-            "Here are the professional projects I have worked on."
+            Here are the professional projects I have worked on.
           </p>
         </div>
         <div className="flex gap-5 md:gap-10 flex-wrap justify-center">
